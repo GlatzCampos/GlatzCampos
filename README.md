@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=GlatzCampos&show_icons=true&title_color=FDFDFD&text_color=636363&icon_color=FDFDFD&bg_color=151515&cache_seconds=2300">
 
-<!--
-**GlatzCampos/GlatzCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Meu nome é Gabriel Glatz<br>
+<h3>Estou aprendendo programação a partir do ensino técnico do Cotemig.</h3>
+<h4>Estou estudando: HTML,CSS,PHP,MySql,C#.</h4>
 
-Here are some ideas to get you started:
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Estudando no Colégio e Faculdade Cotemig.</h3>
+
+<h4>Eu sou desenvolvedor Full Stack.</h4>
+
+
+</p>
+<hr>
