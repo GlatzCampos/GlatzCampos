@@ -10,6 +10,9 @@
 
 <h4>Eu sou desenvolvedor Full Stack.</h4>
 
+<a href="https://www.instagram.com/gabrielglatz">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </p>
 <hr>
