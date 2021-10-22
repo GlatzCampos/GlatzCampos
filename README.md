@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=GlatzCampos&show_icons=true&title_color=FDFDFD&text_color=636363&icon_color=FDFDFD&bg_color=151515&cache_seconds=2300">
 
 ### My name is Gabriel Glatz<br>
-<h3>I'm learning programmation.</h3>
+<h3>I'm learning to program.</h3>
 <h4>I'm learning: HTML,CSS,PHP,MySql,C#.</h4>
 
 <p>
